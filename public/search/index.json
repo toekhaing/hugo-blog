@@ -8,6 +8,10 @@
         
         
     
-    "pages": [{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/my-new-post/","summary":"\u003ch3 id=\"this-is-a-test-post\"\u003eThis is a test post\u003c/h3\u003e","tags":[],"text":"this is a test post ","title":"My New Post"}]
+        
+        
+        
+    
+    "pages": [{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/who-ami/","summary":"\u003ch2 id=\"who-am-i\"\u003eWho AM I\u003c/h2\u003e","tags":[],"text":"who am i ","title":"Who Ami"},{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/my-new-post/","summary":"\u003ch3 id=\"this-is-a-test-post\"\u003eThis is a test post\u003c/h3\u003e","tags":[],"text":"this is a test post ","title":"My New Post"}]
 }
 

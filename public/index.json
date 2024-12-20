@@ -20,8 +20,12 @@
         
         
     
-    "articles": [{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/my-new-post/","summary":"\u003ch3 id=\"this-is-a-test-post\"\u003eThis is a test post\u003c/h3\u003e","tags":[],"title":"My New Post"},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/search/","summary":"","tags":[],"title":"Search"}],
-    "test": "My New Post   Manifest   Search   ",
+        
+        
+        
+    
+    "articles": [{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/who-ami/","summary":"\u003ch2 id=\"who-am-i\"\u003eWho AM I\u003c/h2\u003e","tags":[],"title":"Who Ami"},{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/my-new-post/","summary":"\u003ch3 id=\"this-is-a-test-post\"\u003eThis is a test post\u003c/h3\u003e","tags":[],"title":"My New Post"},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "Who Ami   My New Post   Manifest   Search   ",
     "page": "1",
     "next": ""
 }
